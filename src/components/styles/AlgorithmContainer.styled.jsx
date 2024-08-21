@@ -27,9 +27,13 @@ const StyledAlgorithmContainer = styled.section`
    @media (max-width: 932px) and (orientation: landscape) {
       height: 300px;
    }
+   
+   @media (max-width: 667px) and (orientation: landscape) {
+      height: 180px;
+   }
 
    @media (max-width: 375px) {
-      height: 400px;
+      height: 300px;
    }
 `
 

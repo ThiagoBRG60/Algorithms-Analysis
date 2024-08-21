@@ -45,6 +45,10 @@ const GlobalStyles = createGlobalStyle`
       height: 100dvh;
       background-color: ${({ theme }) => theme.primary};
       transition: 0.4s;
+
+      @media (max-width: 667px) and (orientation: landscape) {
+         height: 100%;
+      }
    }
 
    main {
@@ -59,7 +63,7 @@ const GlobalStyles = createGlobalStyle`
       }
 
       @media (max-width: 882px) and (orientation: landscape) {
-         height: 25dvh;
+         height: 35dvh;
       }
 
       @media (max-width: 720px) and (orientation: landscape) {
@@ -67,7 +71,7 @@ const GlobalStyles = createGlobalStyle`
       }
 
       @media (max-width: 667px) and (orientation: landscape) {
-         height: 35dvh;
+         height: 100%;
       }
 
       @media (max-width: 425px) {
