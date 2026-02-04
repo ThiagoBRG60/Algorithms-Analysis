@@ -13,6 +13,10 @@
    </a>
 </p>
 
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/e6fb2a4d-0f07-4a7c-9d6e-d930216bc70e" alt"project gif"/>
+</div>
+
 ## Sobre
 
 O projeto **Algorithms Analysis** é uma aplicação interativa que permite visualizar e comparar o desempenho de diferentes algoritmos de ordenação. Com uma interface amigável, você pode experimentar algoritmos como Bubble Sort, Quick Sort e Merge Sort, ajustando parâmetros como o tamanho do array e a velocidade de execução para ver como cada algoritmo se comporta em diferentes cenários.
