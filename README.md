@@ -1,8 +1,17 @@
-# Algorithms Analysis
+<h1 align="center">
+   Algorithms Analysis
+</h1>
 
-**Descrição**: Experimente e compare diferentes algoritmos de ordenação em tempo real. Ajuste o tamanho, velocidade e outros parâmetros para ver como cada algoritmo se sai em diferentes cenários. Uma ferramenta interativa para estudantes, desenvolvedores e entusiastas de ciência da computação.
-
-![Gif do Algorithm Analysis](./src/assets/algorithms-analysis.gif)
+<p align="center">
+   <img alt="Top language" src="https://img.shields.io/github/languages/top/ThiagoBRG60/Algorithms-Analysis?style=flat-square&color=AE00FF"/>
+   <img alt="Language Count" src="https://img.shields.io/github/languages/count/ThiagoBRG60/Algorithms-Analysis?style=flat-square&color=AE00FF"/>
+   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/ThiagoBRG60/Algorithms-Analysis?style=flat-square&color=AE00FF"/>
+   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ThiagoBRG60/Algorithms-Analysis?style=flat-square&color=AE00FF"/>
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/ThiagoBRG60/Algorithms-Analysis?style=flat-square&color=AE00FF"/>
+   <a href="https://github.com/ThiagoBRG60/Algorithms-Analysis/tree/main/LICENSE">
+      <img alt="License" src="https://img.shields.io/github/license/ThiagoBRG60/Algorithms-Analysis?style=flat-square&color=AE00FF"/>
+   </a>
+</p>
 
 ## Sobre
 
